@@ -5,7 +5,7 @@ const Card = ({carddata,ind}) => {
     <div style={{ width: '65vh' }}  className=" card col-sm-12  col-lg-4 col-md-4 col-xl-4 mx-2 mt-3  ">
       <a href={carddata.link} style={{ textDecoration: 'none' }} >
         
-      <img className='card-img-top' style={{ height: '35vh' }} src={carddata.img} alt="" />
+      <img className='card-img-top' type="img" style={{ height: '35vh' }} src={carddata.img} alt="" />
       <div className="card-body ">
           <h5 className="card-text text-black ">{carddata.content}</h5>
         </div>
