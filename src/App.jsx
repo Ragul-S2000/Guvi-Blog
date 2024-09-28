@@ -39,7 +39,7 @@ const App = () => {
     }, 
     {
       course: "FSD",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2024/04/Transitioning-From-Front-End-to-Full-Stack_-A-Guide-for-Developers.png",
+      img: "https://th.bing.com/th/id/OIP.dYgvEuPuCHkepFEsa56NFwHaEQ?w=305&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       content: "Transitioning From Front End to Full Stack Development: A Guide for Developers",
       link:"https://www.guvi.in/blog/front-end-to-full-stack-development/",
       Author: "Meghana D ",
@@ -57,7 +57,7 @@ const App = () => {
     }, 
     {
       course: "Cyber security",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/03/real-time-Cybersecurity-projects-2.png",
+      img: "https://th.bing.com/th/id/OIP.7IfJlEVCJmxauF3kQljnxQHaEP?w=310&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       content: "Top 25 Real-Time Cybersecurity Project Ideas!",
       link: "https://www.guvi.in/blog/cybersecurity-project-ideas/",
       Author: "Archana",
@@ -66,7 +66,7 @@ const App = () => {
     },
     {
       course: "Cyber security",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
+      img: "https://th.bing.com/th/id/OIP.rnT3vEGjGq4b50VphfgmEQHaE8?w=267&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       content: "Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?",
       link: "https://www.guvi.in/blog/coding-for-cybersecurity/",
       Author: "Tushar Vinocha",
@@ -93,7 +93,7 @@ const App = () => {
     },
     {
       course: "Cyber security",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-768x402.png",
+      img: "https://th.bing.com/th/id/OIP.okzy9QQMYy-wbFQTrHX2gAHaEK?w=301&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       content: "The Cybersecurity Surge: 5 Must-Have Cybersecurity Certifications!",
       link: "https://www.guvi.in/blog/cybersecurity-certifications/",
       Author: "Tushar Vinochar",
@@ -102,7 +102,7 @@ const App = () => {
     },
     {
       course: "Data science",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2024/07/What-are-Data-Science-Models_-Types-Techniques-and-Process-1.png",
+      img: "https://th.bing.com/th/id/OIP.tt1YwwsTgGuUZaovQgYKYQHaFS?w=262&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       content: "What are Data Science Models? Types, Techniques, Process",
       link: "https://www.guvi.in/blog/data-science-models-types-and-techniques/",
       Author: "Jaishree Tomar",
@@ -111,7 +111,7 @@ const App = () => {
     },
     {
       course: "Data science",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2024/07/R-for-Data-Science-A-Complete-Guide.png",
+      img: "https://th.bing.com/th/id/OIP.DKzXinIScievLKBVBlwhGAAAAA?w=298&h=167&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       content: "R for Data Science: A Complete Guide",
       link: "https://www.guvi.in/blog/guide-on-r-for-data-science/",
       Author: "Meghana D",
@@ -120,7 +120,7 @@ const App = () => {
     },
     {
       course: "Data science",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2024/07/A-Guide-to-Probability-and-Statistics-for-Data-Science.png",
+      img: "https://th.bing.com/th/id/OIP.me6Ct9ju1ZDEYxD8TBz2HgHaEo?w=286&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       content: "Top 10 Data science Courses in India",
       link: "https://www.guvi.in/blog/probability-and-statistics-for-data-science/",
       Author: "Jaishree Tomar",
@@ -138,7 +138,7 @@ const App = () => {
     },
     {
       course: "Data science",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2024/07/What-is-Clustering-in-Data-Science_.png",
+      img: "https://th.bing.com/th/id/OIP.MRTjHNU9hk3RiOg_7-QeGwHaFj?w=250&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       content: "What is Clustering in Data Science? [2024]",
       link: "https://www.guvi.in/blog/clustering-in-data-science/",
       Author: "Lukesh S",
@@ -165,7 +165,7 @@ const App = () => {
     },
      {
       course: "Career",
-       img: "https://www.guvi.in/blog/wp-content/uploads/2020/12/tumbnail-img-2-2048x1033.jpg",
+       img: "https://th.bing.com/th/id/OIP.ogRNXl8_dGotFP7dvFURRgHaE8?w=237&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
        content: "MEAN vs MERN: Career Growth & Salary",
        link: "https://www.guvi.in/blog/mean-vs-mern-stack-the-right-choice-for-me/",
       Author: "admin",
