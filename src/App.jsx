@@ -1,6 +1,5 @@
 import { Routes } from 'react-router-dom'
 import { Route } from 'react-router-dom'
-import React from 'react'
 import { BrowserRouter } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import CyberSecurity from './pages/CyberSecurity'
@@ -13,7 +12,7 @@ const App = () => {
   const datas = [
     {
       course: "FSD",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+      img: "https://th.bing.com/th/id/OIP.3D3UjTNp81qWR9pkmESbWwHaE6?w=263&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       content: "Best Full-Stack Development Project Ideas in 2024",
       link:"https://www.guvi.in/blog/full-stack-development-project-ideas/",
       Author:" Isha Sharma",

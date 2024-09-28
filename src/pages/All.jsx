@@ -1,12 +1,18 @@
-import React from 'react'
-import Card from '../components/Card'
+import PropTypes from 'prop-types';
+import Card from "../components/Card";
 
-const All = ({datas}) => {
+const All = ({ datas }) => {
   return (
     <>
-     {datas.map((carddata,ind)=><Card carddata={carddata} key={ind}/>)}
+      {datas.map((carddata) => (
+        <Card carddata={carddata} key={carddata.id} />
+      ))}
     </>
-  )
-}
+  );
+};
 
-export default All
+All.propTypes = {
+  datas: PropTypes.arrayOf(PropTypes.object).isRequired,
+};
+
+export default All;
